@@ -1,4 +1,4 @@
-# AEQUBIN v1.0 — engineering folder
+# LATEST: **AEQUBIN v1.0**
 
 Modular harvest/household container family: **AEQUCRATE-400** (v1.1
 **hash-rail Rubik-lattice** crate — half-lap # rails on all four sides, slide
